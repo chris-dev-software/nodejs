@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Es un entorno de ejecución de JavaScript.",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "dev":"nodemon ./src/app.js"
   },
