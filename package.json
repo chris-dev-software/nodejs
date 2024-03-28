@@ -5,15 +5,9 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "dev":"nodemon ./src/app.js"
+    "dev": "nodemon ./src/index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "colors": "1.4.0"
-  },
-  "devDependencies": {
-    "nodemon": "3.1.0"
-  }
+  "license": "ISC"
 }
